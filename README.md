@@ -6,8 +6,8 @@
 
 1. ודאו שיש לכם את תוסף הדפדפן **Tampermonkey** מותקן (זמין לכרום, פיירפוקס, אדג' וכו').
 2. לחצו על הקישור הבא להתקנה אוטומטית:
-   [לחצו כאן להתקנת הסקריפט](https://raw.githubusercontent.com/HAKOL-MILEMALA/mishnat-yosef-tweaks/main/mishnat-yosef-layout.user.js)
-3. בחלון של טמפרמונקי שייפתח, לחצו על **Install** (התקנה).
+   [לחצו כאן להתקנת הסקריפט](https://github.com/HAKOL-MILEMALA/mishnat-yosef-layout/raw/refs/heads/main/mishnat-yosef-layout.user.js)
+3. בחלון של טמפרמונקי שייפתח, לחצו על **Install** (התקנה) או **Update** (עדכון).
 4. היכנסו לאתר משנת יוסף והתוצאה תתעדכן אוטומטית.
 
 ## 🔄 עדכונים
